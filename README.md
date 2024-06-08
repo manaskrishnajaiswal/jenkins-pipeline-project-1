@@ -20,7 +20,7 @@ Open your terminal and run the following command to pull the Jenkins image from 
 docker pull jenkins/jenkins:lts
 ```
 
-# Step 3: Run the Jenkins Container
+### Step 3: Run the Jenkins Container
 
 Run the Jenkins container with the following command:
 
